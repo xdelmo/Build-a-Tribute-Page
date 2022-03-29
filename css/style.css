@@ -1,0 +1,20 @@
+#title {
+    font-size: 500%;
+    width: 60vmax;
+}
+
+#image {}
+
+.center {
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
+
+p {
+    font-size: "Lucida Console", Courier, monospace;
+}
+
+a:hover {
+    font-size: 120%;
+}
