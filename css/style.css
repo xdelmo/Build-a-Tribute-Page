@@ -3,7 +3,11 @@
     width: 60vmax;
 }
 
-#image {}
+#image {
+    display: block;
+    max-width: 70%;
+    height: auto;
+}
 
 .center {
     margin: auto;
